@@ -9,7 +9,7 @@ int main(){
   b = temp;
   printf("swaped a: %d, swaped b: %d", a,b);
   
-  printf("Bhavya is good");
+  printf("Bhavya was good");
   
   return 0;
   
