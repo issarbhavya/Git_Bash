@@ -4,9 +4,9 @@ int main(){
   int a,b;
   int temp;
   scanf("%d %d", &a,&b);
-  tmp = a;
+  temp = a;
   a = b;
-  b = tmp;
+  b = temp;
   printf("swaped a: %d, swaped b: %d", a,b);
   return 0;
 }
