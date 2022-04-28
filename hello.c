@@ -1,8 +1,12 @@
-#include <stdio.h>
+#include<stdio.h>
 
-int main(void) {
-  char j = 127;
-  j = j + 10;
-  printf("%u", j); 
+int main(){
+  int a,b;
+  int temp;
+  scanf("%d %d", &a,&b);
+  tmp = a;
+  a = b;
+  b = tmp;
+  printf("swaped a: %d, swaped b: %d", a,b);
+  return 0;
 }
-
