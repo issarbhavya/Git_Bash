@@ -8,5 +8,9 @@ int main(){
   a = b;
   b = temp;
   printf("swaped a: %d, swaped b: %d", a,b);
+  
+  printf("Done");
+  
   return 0;
+  
 }
